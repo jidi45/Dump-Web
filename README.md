@@ -28,6 +28,6 @@ It detects:
 Clone repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourname/prime-scanner.git
-cd prime-scanner
+git clone https://github.com/jidi45/Dump-Web.git
+cd Dump-Web
 bash installer.sh
