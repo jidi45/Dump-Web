@@ -201,4 +201,3 @@ logging
 report
 stats
 stat
-metric

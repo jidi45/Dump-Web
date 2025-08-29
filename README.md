@@ -1,5 +1,7 @@
 # Prime Advanced SQLi Scanner
 
+#CREATOR HAMJA
+
 Prime is an advanced **SQL Injection scanner** built for educational and security research purposes.  
 It detects:
 - Error-based SQLi

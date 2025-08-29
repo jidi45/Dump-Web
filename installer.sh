@@ -23,6 +23,7 @@ fi
 # Install required Python modules
 pip install requests fake-useragent colorama
 
-echo "[+] Installation complete!"
-echo "--------------------------------"
-echo "Run the tool with: python3 prime.py"
+echo "✅ All requirements installed!"
+echo "⚡ To run, use: python3 Dump.py"
+
+echo "🕶 Ready to rule the shadows! 💀"
